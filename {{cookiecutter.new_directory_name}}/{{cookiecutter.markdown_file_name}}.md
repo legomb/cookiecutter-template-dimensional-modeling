@@ -41,6 +41,8 @@ sequenceDiagram
 
 ### Entities
 
+#### Entity-Relationship Diagram (ERD)
+
 ```mermaid
 erDiagram
     CUSTOMER ||--o{ ORDER : places
