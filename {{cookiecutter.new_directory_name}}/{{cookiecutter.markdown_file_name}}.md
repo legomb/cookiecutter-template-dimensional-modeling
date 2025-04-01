@@ -27,6 +27,8 @@ What problem do we want to solve?
 
 ### Business Process
 
+Identify the business process.
+
 ```mermaid
 sequenceDiagram
 	actor ActorA
@@ -59,12 +61,16 @@ erDiagram
     }
 ```
 
+#### Facts
+
+#### Dimensions
+
 ### Deliverables
 
 Number | Name | Description | Effort
 ---------|----------|---------|---------
- 1 | B1 | C1 | Low
- 2 | B2 | C2 | Med
+ 1 | Approval | Business user approves this proposal | Med
+ 2 | B2 | C2 | Low
  3 | B3 | C3 | High
 
 ### Roadmap
